@@ -9,7 +9,6 @@ In this i modelled a coin that gives heads with a certain probability as a Berno
 n coin tosses to observe the outcomes; (b) Repeat the simulation 5 times and plot all outcomes on the same figure to compare variability; (c) Repeat the simulation 
 𝑚
 m times, store the sequences, calculate the total number of heads, and plot their histogram to approximate the binomial PMF; and (d) Select sequences from Part (c) that sum to at least 
-𝑘
 k, recalculate the number of heads, and plot their histogram to observe changes in the PMF.
 
 
